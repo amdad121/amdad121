@@ -5,15 +5,20 @@
   <img src="https://komarev.com/ghpvc/?username=amdad121&style=flat-square" alt="Profile Views">
 </div>
 
+<div align="center">
+  <em>"The only way to do great work is to love what you do." - Steve Jobs</em>
+</div>
+
 ---
 
 ### 🚀 About Me
 
-- 💻 Full Stack Developer passionate about building scalable applications
-- 🌱 Currently diving deep into DevOps and Cloud Infrastructure
-- 🎯 Interested in Open Source, Cloud Computing, and Automation
-- 🎨 Love music, traveling, and exploring new technologies
-- 💞️ Looking to collaborate on Laravel, VueJS, and DevOps projects
+- 💻 Passionate Full Stack Developer building modern web applications with cutting-edge technologies
+- 🌱 Exploring the world of DevOps, Cloud Infrastructure, and Containerization
+- 🎯 Open Source Enthusiast - Contributing to meaningful projects and learning from the community
+- 🚀 Always learning, always growing. Currently focused on full-stack development and automation
+- 🎨 Outside of coding, I enjoy traveling, listening to music, and discovering new cultures
+- 💞️ Open to collaborations on Laravel, VueJS, Next.js, Nuxt.js, and DevOps projects
 
 ---
 
@@ -63,6 +68,14 @@
 
 ---
 
+### 🔥 Quick Stats
+
+<div align="center">
+  🌍 Based in Bangladesh | 💼 Open to work | ⚡ Building cool stuff
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <table align="center">
@@ -85,12 +98,22 @@
 
 ### 🤝 Connect With Me
 
+<p align="center">
+  Feel free to reach out for collaborations, opportunities, or just a friendly chat!
+</p>
+
 <div align="center">
   <a href="mailto:amdadulhaq781@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/amdad121">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/amdadul-haq">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/amdad121">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 </div>
 
