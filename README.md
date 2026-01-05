@@ -25,6 +25,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -34,6 +35,8 @@
 #### Backend
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-333333?style=for-the-badge&logo=inertia&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -62,20 +65,21 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amdad121&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdad121&theme=dark&hide_border=true&layout=compact&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-  <br><br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amdad121&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=58a6ff&currStreakNumber=58a6ff&sideLabels=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdad121&theme=github-dark&hide_border=true&area=true" />
-</div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/amdad121?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&activity.git_commits.from=git&activity.git_commits.to=git&config.timezone=Asia%2FDhaka" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=amdad121&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdad121&theme=dark&hide_border=true&layout=compact&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=amdad121&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=58a6ff&currStreakNumber=58a6ff&sideLabels=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
+    </td>
+  </tr>
+</table>
 
 ---
 
