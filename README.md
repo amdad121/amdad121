@@ -1,51 +1,97 @@
-<h1 align="center">👋 Hi, I’m Amdadul Haq</h1>
+<h1 align="center">👋 Hi, I'm Amdadul Haq</h1>
+<h3 align="center">Full Stack Developer & DevOps Enthusiast</h3>
 
-- 👀 I’m interested in listening to music, traveling etc.
-- 🌱 I’m currently learning DevOps.
-- 💞️ I’m looking to collaborate on open-source projects or libraries with Laravel and VueJS.
-- 📫 Feel free to reach me out amdadulhaq781@gmail.com
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amdad121&style=flat-square" alt="Profile Views">
+</div>
 
-<table align="center">
-    <tbody>
-        <tr border="none">
-            <td width="50%" align="center">
-                <picture>
-                    <source
-                        srcset="https://github-readme-stats.vercel.app/api?username=amdad121&theme=dark"
-                        media="(prefers-color-scheme: dark)"
-                    />
-                    <source
-                        srcset="https://github-readme-stats.vercel.app/api?username=amdad121"
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                    />
-                    <img src="https://github-readme-stats.vercel.app/api?username=amdad121">
-                </picture>
-                <br><br>
-                <picture>
-                    <source
-                        srcset="https://github-readme-streak-stats.herokuapp.com?user=amdad121&theme=dark"
-                        media="(prefers-color-scheme: dark)"
-                    />
-                    <source
-                        srcset="https://github-readme-streak-stats.herokuapp.com?user=amdad121"
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                    />
-                    <img src="https://github-readme-streak-stats.herokuapp.com?user=amdad121">
-                </picture>
-            </td>
-            <td width="50%" align="center">
-                <picture>
-                    <source
-                        srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amdad121&theme=dark"
-                        media="(prefers-color-scheme: dark)"
-                    />
-                    <source
-                        srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amdad121"
-                        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-                    />
-                    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amdad121">
-                </picture>
-            </td>
-        </tr>
-    </tbody>
-</table>
+---
+
+### 🚀 About Me
+
+- 💻 Full Stack Developer passionate about building scalable applications
+- 🌱 Currently diving deep into DevOps and Cloud Infrastructure
+- 🎯 Interested in Open Source, Cloud Computing, and Automation
+- 🎨 Love music, traveling, and exploring new technologies
+- 💞️ Looking to collaborate on Laravel, VueJS, and DevOps projects
+
+---
+
+### 💡 Tech Stack
+
+#### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+#### Operating Systems
+
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amdad121&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdad121&theme=dark&hide_border=true&layout=compact&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <br><br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=amdad121&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=58a6ff&currStreakNumber=58a6ff&sideLabels=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amdad121&theme=github-dark&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/amdad121?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&activity.git_commits.from=git&activity.git_commits.to=git&config.timezone=Asia%2FDhaka" />
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:amdadulhaq781@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/amdad121">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.com/amdad121/amdad121/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
