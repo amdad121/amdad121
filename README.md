@@ -73,13 +73,21 @@
 
 ## 🔥 Quick Stats
 
-<table align="center" border="0">
+<table align="center">
   <tr>
     <td align="center">
-      <img src="https://ghstats.vercel.app/api?username=amdad121&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000" />
+      <picture>
+        <source srcset="https://ghstats.vercel.app/api?username=amdad121&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://ghstats.vercel.app/api?username=amdad121&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://ghstats.vercel.app/api?username=amdad121&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+      </picture>
     </td>
     <td align="center">
-      <img src="https://ghstats.vercel.app/api/top-langs/?username=amdad121&theme=transparent&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
+      <picture>
+        <source srcset="https://ghstats.vercel.app/api/top-langs/?username=amdad121&theme=dark&hide_border=true&layout=compact&langs_count=8" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://ghstats.vercel.app/api/top-langs/?username=amdad121&hide_border=true&layout=compact&langs_count=8" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://ghstats.vercel.app/api/top-langs/?username=amdad121&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+      </picture>
     </td>
   </tr>
 </table>
