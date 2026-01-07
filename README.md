@@ -81,15 +81,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=amdad121&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+      <img src="https://ghstats.vercel.app/api?username=amdad121&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdad121&theme=dark&hide_border=true&layout=compact&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=amdad121&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=58a6ff&currStreakNumber=58a6ff&sideLabels=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
+      <img src="https://ghstats.vercel.app/api/top-langs/?username=amdad121&theme=dark&hide_border=true&layout=compact&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
     </td>
   </tr>
 </table>
@@ -117,8 +112,4 @@
   </a>
 </div>
 
----
 
-<p align="center">
-  <img src="https://github.com/amdad121/amdad121/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
