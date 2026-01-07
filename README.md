@@ -17,20 +17,14 @@
 
 ## 🚀 About Me
 
-<table border="0">
-  <tr>
-    <td>
-      <ul>
-        <li>💻 Passionate Full Stack Developer building modern web applications with cutting-edge technologies</li>
-        <li>🌱 Exploring the world of DevOps, Cloud Infrastructure, and Containerization</li>
-        <li>🎯 Open Source Enthusiast - Contributing to meaningful projects and learning from the community</li>
-        <li>🚀 Always learning, always growing. Currently focused on full-stack development and automation</li>
-        <li>🎨 Outside of coding, I enjoy traveling, listening to music, and discovering new cultures</li>
-        <li>💞️ Open to collaborations on Laravel, VueJS, Next.js, Nuxt.js, and DevOps projects</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>💻 Passionate Full Stack Developer building modern web applications with cutting-edge technologies</li>
+  <li>🌱 Exploring the world of DevOps, Cloud Infrastructure, and Containerization</li>
+  <li>🎯 Open Source Enthusiast - Contributing to meaningful projects and learning from the community</li>
+  <li>🚀 Always learning, always growing. Currently focused on full-stack development and automation</li>
+  <li>🎨 Outside of coding, I enjoy traveling, listening to music, and discovering new cultures</li>
+  <li>💞️ Open to collaborations on Laravel, VueJS, Next.js, Nuxt.js, and DevOps projects</li>
+</ul>
 
 ---
 
@@ -82,10 +76,10 @@
 <table align="center" border="0">
   <tr>
     <td align="center">
-      <img src="https://ghstats.vercel.app/api?username=amdad121&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+      <img src="https://ghstats.vercel.app/api?username=amdad121&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000" />
     </td>
     <td align="center">
-      <img src="https://ghstats.vercel.app/api/top-langs/?username=amdad121&hide_border=true&layout=compact&langs_count=8" />
+      <img src="https://ghstats.vercel.app/api/top-langs/?username=amdad121&theme=transparent&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
     </td>
   </tr>
 </table>
