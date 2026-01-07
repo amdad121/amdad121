@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amdad121&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amdad121&style=for-the-badge&color=58a6ff" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-<table>
+<table border="0">
   <tr>
     <td>
       <ul>
@@ -79,13 +79,13 @@
 
 ## 🔥 Quick Stats
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center">
-      <img src="https://ghstats.vercel.app/api?username=amdad121&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+      <img src="https://ghstats.vercel.app/api?username=amdad121&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
     </td>
     <td align="center">
-      <img src="https://ghstats.vercel.app/api/top-langs/?username=amdad121&theme=dark&hide_border=true&layout=compact&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+      <img src="https://ghstats.vercel.app/api/top-langs/?username=amdad121&hide_border=true&layout=compact&langs_count=8" />
     </td>
   </tr>
 </table>
